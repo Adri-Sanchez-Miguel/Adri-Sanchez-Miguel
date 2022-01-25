@@ -1,5 +1,5 @@
 ## ¡Hola! I am Adrián Sánchez-Miguel Ortega 👋
-I am studying a Computer Science Engineering degree in the UCLM (Universidad de Castilla La-Mancha) in Ciudad Real, Spain.
+I am studying a Computer Science Engineering degree in the UCLM (Universidad de Castilla-La Mancha: Ciudad Real, Spain).
 
 ## Skills: 
 - 💻 ANGULAR / JAVA / JS / HTML / CSS / C#
